@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: TodoParrot
+        psr4_prefix: TodoParrot
         src_path: app
