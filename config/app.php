@@ -140,9 +140,9 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        TodoParrot\Providers\AppServiceProvider::class,
+        TodoParrot\Providers\EventServiceProvider::class,
+        TodoParrot\Providers\RouteServiceProvider::class,
 
     ],
 

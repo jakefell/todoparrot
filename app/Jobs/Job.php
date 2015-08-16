@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace TodoParrot\Jobs;
 
 use Illuminate\Bus\Queueable;
 
